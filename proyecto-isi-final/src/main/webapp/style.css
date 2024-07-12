@@ -1,0 +1,106 @@
+body{
+    background-color: #4B7BE5;
+    margin: 0 0 0 0;
+    color:     white;
+}
+
+h1{
+    margin: 0 0 0 0;
+}
+
+header {
+    color: white;
+    background-color:#371B58;
+    padding: 3rem;
+    margin: 0 0 3rem 0;
+    font-size:30px;
+    text-align: center;
+}
+
+ ul {
+  list-style-type: none;
+ }
+
+.Cuadricula {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Contenedor{
+    border: #6FDFDF;
+    border-width: 1rem;
+    border-style: solid;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+a:link, a:visited {
+    background-color: white;
+    color: black;
+    border: 0.25rem solid #6FDFDF;
+    padding: 0.5rem 1rem ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: #6FDFDF;
+    color: white;
+}
+
+.Cabecera{
+    display: flex;
+    align-items: center;
+}
+.Imagen{
+    width: 35%;
+    border: #6FDFDF;
+    border-width: 1rem;
+    border-style: solid;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.Caracteristicas{
+    height: 70%;
+    width: 65%;
+    border: #6FDFDF;
+    border-width: 1rem;
+    border-style: solid;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none;
+}
+
+.Precio{
+    border: #6FDFDF;
+    border-width: 1rem;
+    border-style: solid;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+    
+
+.Precio > div{
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.search-box{
+    float: left;
+    padding: 5px;
+    margin: 5px;
+    width: 25%;
+}
+
+.search-button{
+    float: left;
+    padding: 5px;
+    margin: 5px;
+}

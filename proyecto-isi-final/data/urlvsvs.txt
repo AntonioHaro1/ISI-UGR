@@ -1,0 +1,13 @@
+general https://www.vsgamers.es/product/tarjeta-grafica-
+3090 asus-rog-strix-geforce-rtx-3090-24-gb-gddr6x-blanca
+3090ti asus-tuf-gaming-geforce-rtx-3090-ti-oc-24g-24-gb-gddr6x
+3080 asus-tuf-gaming-geforce-rtx-3080-oc-gaming-lhr
+3080ti asus-tuf-gaming-geforce-rtxr-3080-ti-oc-12gb-gddr6x
+3070 asus-rog-strix-geforce-rtx-3070-v2-gaming-oc-8g-8-gb-gddr6x-lhr
+3070ti asus-rog-strix-geforce-rtx-3070-ti-gaming-oc-8g-8-gb-gddr6x
+3060 asus-dual-geforce-rtx-3060-ti-oc-lhr8gb-gddr6
+3060ti asus-dual-geforce-rtx-3060-12gb-v2-gddr6
+3050 asus-dual-geforce-rtx-3050-8gb-gddr6
+2060 asus-dual-geforce-rtx-2060-evo-6-gb-gddr6
+1660super nvidia-geforce-gtx-1660-super-6-gb-gddr6-twin-fan
+1650 asus-tuf-gtx-1650-gaming-p-4gb-gddr6
