@@ -1,6 +1,6 @@
 # Ingeniería de Sistemas de Información
 
-Este repositorio contiene las prácticas realizadas como parte de la asignatura de **Ingeniería de Sistemas de Información** de la **UGR**. En este proyecto, hemos desarrollado una página web que permite a los usuarios seleccionar diferentes modelos de **tarjetas gráficas** y obtener información actualizada sobre precios y detalles mediante técnicas de **scraping**.
+Este repositorio contiene las prácticas realizadas para la asignatura de **Ingeniería de Sistemas de Información** de la **UGR**. En este proyecto, se ha desarrollado una página web que permite a los usuarios seleccionar diferentes modelos de **tarjetas gráficas** y obtener información actualizada sobre precios y detalles mediante técnicas de **scraping**.
 
 ## Descripción del Proyecto
 
