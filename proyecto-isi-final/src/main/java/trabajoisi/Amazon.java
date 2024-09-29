@@ -27,7 +27,7 @@ public class Amazon {
     }
 	
 	public ArrayList<Precios> AmazonBusqueda() {
-		String urlString = "https://api.rainforestapi.com/request?api_key=B2DA4884812143B1B06A45B79EDA516E&type=search&amazon_domain=amazon.es&search_term=";
+		String urlString = "https://api.rainforestapi.com/request?api_key=&type=search&amazon_domain=amazon.es&search_term=";
 		urlString = urlString + tarjeta + "&category_id=937935031";
 		try {
 			URL url = new URL(urlString);
